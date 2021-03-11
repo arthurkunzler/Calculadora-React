@@ -1,3 +1,9 @@
+# Calculadora-React
+Este projeto foi realizado por Arthur Kunzler@fev.2021
+
+Consiste em uma calculadora que realiza as operações matemáticas básicas (adição, subtração, multilicação e divisão).
+Projeto realizado utilizando React, HTML e Css. Criado a partir do Create React App
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
